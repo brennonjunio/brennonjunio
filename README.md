@@ -2,7 +2,11 @@
 
 <p>juniobrennon@gmail.com</p>
 
-Desenvolvedor Back End /Analista de Sistemas Sankhya.
+Um dos meus projetos:
+<p>https://carwash.brnn-tech.com.br/inicio</p>
+
+
+Desenvolvedor FullStack /Analista de Sistemas Sankhya.
 
 Experiente em tecnologias como Node.js, PHP Laravel, JavaScript, TypeScript, C# e com competências em administração de sistemas Linux, Docker e bancos de dados SQL (PostgreSQL, MySQL, SQL Server). Especializado na criação de soluções sólidas e escaláveis para projetos de software.
 
